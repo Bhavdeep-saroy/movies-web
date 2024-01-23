@@ -20,4 +20,3 @@ When you go to the movies web and click on the actor icon, it will show you the 
 
 There is also a search icon in this movies web on which if you click on it and search the name of your favorite movie in the input box of the search icon, then it will give you the link of Us Movies and will take you to the movie.
 
-Short and URLs can shorten this project to shorten your big URL, so that you will be able to send it to anyone and it will come in the text. To use this method you have been given an input box in this website. In it you will enter your URL and after pressing the submit button foot, your short prevention will be done in the table below and will also show up on the input box where you put your URL.
